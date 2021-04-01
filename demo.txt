@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 haha hehe 3
+=======
+c
+>>>>>>> mybranch
